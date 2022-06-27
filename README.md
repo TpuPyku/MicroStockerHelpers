@@ -9,7 +9,7 @@
 
 Как это выглядит:
 
-![Shutterstock Keywords]((https://github.com/TpuPyku/MicroStockerHelpers/blob/master/images/shutter.png)
+![Shutterstock Keywords](https://github.com/TpuPyku/MicroStockerHelpers/blob/master/images/shutter.png)
 
 ### Как использовать скрипты
   - Скопировать нужный скрипт
