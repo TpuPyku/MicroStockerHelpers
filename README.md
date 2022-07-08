@@ -12,10 +12,30 @@
 ![Shutterstock Keywords](https://github.com/TpuPyku/MicroStockerHelpers/blob/master/images/shutter.png)
 
 ### Как использовать скрипт
-  - Скопировать скрипт
+  - Скопировать скрипт [shutterstockKeywords.js](https://github.com/TpuPyku/MicroStockerHelpers/blob/master/ShutterStock/shutterstockKeywords.js)
   - Установить расширение для браузера [Tampermonkey](http://tampermonkey.net/) 
     - Create new script... -> Вставить -> Сохранить
   - После обновления страницы скрипт работает.
+
+## KeyScraper
+
+Сохраняет картинку (превью 640px) с Shutterstock по ссылке или id, и добавляет в неё exif информацию о продающих ключах, авторе, описание.
+Предполагает дальнейшую работу с изображениями в Бридже или StockSubmitter.
+
+Скомпилированный для Windows x64 - [скачать](https://github.com/TpuPyku/MicroStockerHelpers/blob/master/Shutterstock/KeyScrap/bin)
+
+### Как использовать
+  - В верхнее окно вставить ссылку на изображение или только id.
+  - Нажать Start и немного подождать.
+  - В среднем окне появится информация по изображению.
+  - Нажать Save. При первом вызове появиться окно выбора директории.
+  - В последющем директория показывается рядом с кнопкой, можно изменить в ручную.
+
+Как это выглядит:
+
+![KeyScrap](https://github.com/TpuPyku/MicroStockerHelpers/blob/master/images/keyscrap1.png)
+
+![KeyScrap](https://github.com/TpuPyku/MicroStockerHelpers/blob/master/images/keyscrap2.png)
 
 ## Canva Key
 
