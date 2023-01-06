@@ -37,7 +37,9 @@
 
 ![KeyScrap](https://github.com/TpuPyku/MicroStockerHelpers/blob/master/images/keyscrap2.png)
 
-## Canva Key
+## ~~Canva~~ PNG Key
+
+***Canva перестала принимать метаданные внутри файлов, теперь только в .csv, но png начал принимать Adobe Stock, так что утилита ещё актуальна.***
 
 Утилита для переноса метаданных с .JPG файлов на .PNG для последующей зарузки их на Канву.
 Потенциально скрипт должен работать при установленном Python 3 на Win, Linux, Mac. Проверенно только на Windows.
