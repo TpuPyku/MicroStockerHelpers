@@ -16,6 +16,7 @@
   - Установить расширение для браузера [Tampermonkey](http://tampermonkey.net/) 
     - Create new script... -> Вставить -> Сохранить
   - После обновления страницы скрипт работает.
+### Так как shutterstock сменил способ показа продающих ключей, то скрипт больше не работает. Но теперь есть плагин для Chrome [KeyHunter](https://keyhunter.net)
 
 ## KeyScraper
 
